@@ -120,136 +120,346 @@
         {
             "id": 1,
             "plateNum": "ABC-123",
-            "owner": "Ahmed Hassan",
             "location": "Cairo",
             "violations": "Stolen",
-            "status": "Wanted"
+            "status": "Wanted",
+            "brand": "Nissan Qashqai 2014",
+            "ownerName": "Omar Khaled Mohammed Said",
+            "licenseLocation": "Abu Kbir - Sharqia - Egypt",
+            "violationId": "4512540001",
+            "violationType": "Stolen Car",
+            "violationDate": "18-10-2024 (3:45 Pm)",
+            "violationLocation": "Zagazig - Sharqia - Egypt",
+            "violationOfficerData": {
+                "name": "Khaled Mohammed Adel",
+                "id": 154
+            },
+            "violationStatus": "Wanted",
+            "notes": [
+                "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Culpa cupiditate ullam sit unde magnam ipsam. Commodi reiciendis nemo, id obcaecati corrupti dolorum, reprehenderit, incidunt non ut maxime doloribus animi ullam temporibus tempore voluptas harum totam perspiciatis vero nobis aperiam? Dolor dicta illo officiis, quidem odio iste alias ipsam molestias pariatur."
+            ]
         },
 
         {
             "id": 2,
             "plateNum": "XYZ-456",
-            "owner": "Mohamed Ali",
             "location": "Alexandria",
             "violations": "Expired License",
-            "status": "Impounded"
+            "status": "Impounded",
+            "brand": "Hyundai Elantra 2018",
+            "ownerName": "Mohamed Ali Mahmoud Hassan",
+            "licenseLocation": "Al Attarin - Alexandria - Egypt",
+            "violationId": "4512540002",
+            "violationType": "Expired Driving License",
+            "violationDate": "22-09-2024 (10:15 Am)",
+            "violationLocation": "Mansheya - Alexandria - Egypt",
+            "violationOfficerData": {
+                "name": "Amr Samir Fawzy",
+                "id": 227
+            },
+            "violationStatus": "Impounded",
+            "notes": [
+                "Vehicle impounded during routine check. Driver failed to present valid license. Three previous warnings issued."
+            ]
         },
 
         {
             "id": 3,
             "plateNum": "DEF-789",
-            "owner": "Youssef Ahmed",
             "location": "Giza",
             "violations": "Unpaid Fines",
-            "status": "Wanted"
+            "status": "Wanted",
+            "brand": "Toyota Corolla 2020",
+            "ownerName": "Youssef Ahmed Saleh",
+            "licenseLocation": "Dokki - Giza - Egypt",
+            "violationId": "4512540003",
+            "violationType": "Accumulated Traffic Fines",
+            "violationDate": "15-11-2024 (2:30 Pm)",
+            "violationLocation": "6th of October City - Giza - Egypt",
+            "violationOfficerData": {
+                "name": "Hossam Ali Abdelrahman",
+                "id": 189
+            },
+            "violationStatus": "Wanted",
+            "notes": [
+                "Total unpaid fines exceed 15,000 EGP. Multiple speeding violations recorded."
+            ]
         },
 
         {
             "id": 4,
             "plateNum": "LMN-321",
-            "owner": "Karim Mohamed",
             "location": "Mansoura",
             "violations": "Illegal Parking",
-            "status": "Impounded"
+            "status": "Impounded",
+            "brand": "Chevrolet Optra 2016",
+            "ownerName": "Karim Mohamed Tawfik",
+            "licenseLocation": "Talkha - Dakahlia - Egypt",
+            "violationId": "4512540004",
+            "violationType": "Obstructing Traffic Flow",
+            "violationDate": "29-08-2024 (5:20 Pm)",
+            "violationLocation": "Gomhoria Street - Mansoura - Egypt",
+            "violationOfficerData": {
+                "name": "Nader Waleed Kamal",
+                "id": 265
+            },
+            "violationStatus": "Impounded",
+            "notes": [
+                "Vehicle parked in no-parking zone near fire hydrant. Owner unavailable at scene."
+            ]
         },
 
         {
             "id": 5,
             "plateNum": "QRS-654",
-            "owner": "Omar Khaled",
             "location": "Tanta",
             "violations": "Hit and Run",
-            "status": "Wanted"
+            "status": "Wanted",
+            "brand": "Kia Picanto 2019",
+            "ownerName": "Omar Khaled Fawzy",
+            "licenseLocation": "El-Santa - Gharbia - Egypt",
+            "violationId": "4512540005",
+            "violationType": "Fleeing Accident Scene",
+            "violationDate": "07-12-2024 (9:10 Pm)",
+            "violationLocation": "El-Geish Street - Tanta - Egypt",
+            "violationOfficerData": {
+                "name": "Tamer Hosny Abdallah",
+                "id": 332
+            },
+            "violationStatus": "Wanted",
+            "notes": [
+                "Security camera footage shows vehicle colliding with pedestrian then fleeing."
+            ]
         },
 
         {
             "id": 6,
             "plateNum": "GHI-987",
-            "owner": "Mostafa Ibrahim",
             "location": "Ismailia",
             "violations": "Fake License Plate",
-            "status": "Impounded"
+            "status": "Impounded",
+            "brand": "Mitsubishi Lancer 2015",
+            "ownerName": "Mostafa Ibrahim Khalil",
+            "licenseLocation": "Fayed - Ismailia - Egypt",
+            "violationId": "4512540006",
+            "violationType": "Forged Registration",
+            "violationDate": "14-01-2024 (11:00 Am)",
+            "violationLocation": "Mohamed Ali Road - Ismailia - Egypt",
+            "violationOfficerData": {
+                "name": "Wael Samy Rashad",
+                "id": 178
+            },
+            "violationStatus": "Impounded",
+            "notes": [
+                "Plate number mismatch detected during automated license plate recognition scan."
+            ]
         },
 
         {
             "id": 7,
             "plateNum": "JKL-258",
-            "owner": "Walid Said",
             "location": "Fayoum",
             "violations": "Reckless Driving",
-            "status": "Wanted"
+            "status": "Wanted",
+            "brand": "Renault Logan 2017",
+            "ownerName": "Walid Said Abdelghany",
+            "licenseLocation": "Tamiya - Fayoum - Egypt",
+            "violationId": "4512540007",
+            "violationType": "Dangerous Maneuvers",
+            "violationDate": "03-03-2024 (4:55 Pm)",
+            "violationLocation": "Corniche El-Nil - Fayoum - Egypt",
+            "violationOfficerData": {
+                "name": "Adel Kamal Mohammed",
+                "id": 301
+            },
+            "violationStatus": "Wanted",
+            "notes": [
+                "Multiple reports of street racing involvement. Vehicle identified via traffic cameras."
+            ]
         },
 
         {
             "id": 8,
             "plateNum": "MNO-369",
-            "owner": "Mahmoud Tarek",
             "location": "Suez",
             "violations": "Speeding",
-            "status": "Impounded"
+            "status": "Impounded",
+            "brand": "Peugeot 301 2021",
+            "ownerName": "Mahmoud Tarek El-Shenawy",
+            "licenseLocation": "Arbaeen - Suez - Egypt",
+            "violationId": "4512540008",
+            "violationType": "Excessive Speed (158 km/h)",
+            "violationDate": "25-05-2024 (1:15 Pm)",
+            "violationLocation": "Cairo-Suez Highway - Egypt",
+            "violationOfficerData": {
+                "name": "Karim Ashraf Sobhy",
+                "id": 214
+            },
+            "violationStatus": "Impounded",
+            "notes": [
+                "Radar detection in 80 km/h zone. Driver attempted to evade speed trap."
+            ]
         },
 
         {
             "id": 9,
             "plateNum": "PQR-741",
-            "owner": "Ibrahim Khalil",
             "location": "Aswan",
             "violations": "DUI (Driving Under Influence)",
-            "status": "Wanted"
+            "status": "Wanted",
+            "brand": "Ford Focus 2018",
+            "ownerName": "Ibrahim Khalil Hassan",
+            "licenseLocation": "Kom Ombo - Aswan - Egypt",
+            "violationId": "4512540009",
+            "violationType": "Drunk Driving",
+            "violationDate": "12-07-2024 (8:30 Pm)",
+            "violationLocation": "Saad Zaghloul Street - Aswan - Egypt",
+            "violationOfficerData": {
+                "name": "Mohammed Nasr El-Din",
+                "id": 198
+            },
+            "violationStatus": "Wanted",
+            "notes": [
+                "Failed field sobriety test. Blood alcohol level 0.12%."
+            ]
         },
 
         {
             "id": 10,
             "plateNum": "STU-852",
-            "owner": "Hassan Omar",
             "location": "Luxor",
             "violations": "Insurance Expired",
-            "status": "Impounded"
+            "status": "Impounded",
+            "brand": "Fiat Tipo 2020",
+            "ownerName": "Hassan Omar El-Banna",
+            "licenseLocation": "Karnak - Luxor - Egypt",
+            "violationId": "4512540010",
+            "violationType": "Lapsed Insurance Coverage",
+            "violationDate": "19-04-2024 (7:40 Am)",
+            "violationLocation": "Luxor International Airport Road - Egypt",
+            "violationOfficerData": {
+                "name": "Ahmed Samir Moussa",
+                "id": 245
+            },
+            "violationStatus": "Impounded",
+            "notes": [
+                "Insurance expired 6 months ago. Vehicle involved in minor collision."
+            ]
         },
 
         {
             "id": 11,
             "plateNum": "VWX-963",
-            "owner": "Tarek Hany",
             "location": "Port Said",
             "violations": "Vehicle Smuggling",
-            "status": "Wanted"
+            "status": "Wanted",
+            "brand": "Jeep Grand Cherokee 2022",
+            "ownerName": "Tarek Hany Farag",
+            "licenseLocation": "El-Zohour District - Port Said - Egypt",
+            "violationId": "4512540011",
+            "violationType": "Cross-Border Smuggling",
+            "violationDate": "30-06-2024 (11:30 Pm)",
+            "violationLocation": "Port Said Customs Zone - Egypt",
+            "violationOfficerData": {
+                "name": "Yasser Magdy Salem",
+                "id": 276
+            },
+            "violationStatus": "Wanted",
+            "notes": [
+                "Customs documents forged. Vehicle VIN number tampered with."
+            ]
         },
 
         {
             "id": 12,
             "plateNum": "YZA-159",
-            "owner": "Fadi Samir",
             "location": "Hurghada",
             "violations": "Modified Exhaust System",
-            "status": "Impounded"
+            "status": "Impounded",
+            "brand": "BMW 320i 2019",
+            "ownerName": "Fadi Samir El-Masry",
+            "licenseLocation": "El-Dahar - Hurghada - Egypt",
+            "violationId": "4512540012",
+            "violationType": "Illegal Vehicle Modifications",
+            "violationDate": "08-02-2024 (6:15 Pm)",
+            "violationLocation": "Marina Boulevard - Hurghada - Egypt",
+            "violationOfficerData": {
+                "name": "Sherif Omar Ibrahim",
+                "id": 155
+            },
+            "violationStatus": "Impounded",
+            "notes": [
+                "Excessive noise pollution measured at 112 dB. Modification permit missing."
+            ]
         },
 
         {
             "id": 13,
             "plateNum": "BCD-753",
-            "owner": "Ayman Salah",
             "location": "Sharm El Sheikh",
             "violations": "Expired Inspection Certificate",
-            "status": "Wanted"
+            "status": "Wanted",
+            "brand": "Mercedes C200 2017",
+            "ownerName": "Ayman Salah El-Din",
+            "licenseLocation": "Naama Bay - Sharm El Sheikh - Egypt",
+            "violationId": "4512540013",
+            "violationType": "Lapsed Technical Inspection",
+            "violationDate": "21-03-2024 (12:00 Pm)",
+            "violationLocation": "Peace Road - Sharm El Sheikh - Egypt",
+            "violationOfficerData": {
+                "name": "Osama Ahmed Fouad",
+                "id": 299
+            },
+            "violationStatus": "Wanted",
+            "notes": [
+                "Inspection expired 14 months ago. Brake system defects identified."
+            ]
         },
 
         {
             "id": 14,
             "plateNum": "EFG-684",
-            "owner": "Sameh Nabil",
             "location": "Minya",
             "violations": "No License Plate",
-            "status": "Impounded"
+            "status": "Impounded",
+            "brand": "Chery Tiggo 2021",
+            "ownerName": "Sameh Nabil Awad",
+            "licenseLocation": "Beni Mazar - Minya - Egypt",
+            "violationId": "4512540014",
+            "violationType": "Missing Registration Plates",
+            "violationDate": "05-09-2024 (9:25 Am)",
+            "violationLocation": "Corniche El-Nil - Minya - Egypt",
+            "violationOfficerData": {
+                "name": "Hany Magdy William",
+                "id": 201
+            },
+            "violationStatus": "Impounded",
+            "notes": [
+                "Temporary plates expired. Vehicle identification challenged."
+            ]
         },
 
         {
             "id": 15,
             "plateNum": "HIJ-275",
-            "owner": "Adel Mahmoud",
             "location": "Beni Suef",
             "violations": "Tinted Windows Violation",
-            "status": "Wanted"
+            "status": "Wanted",
+            "brand": "Hyundai Tucson 2023",
+            "ownerName": "Adel Mahmoud Salama",
+            "licenseLocation": "El-Wasta - Beni Suef - Egypt",
+            "violationId": "4512540015",
+            "violationType": "Excessive Window Tinting (38%)",
+            "violationDate": "17-07-2024 (3:00 Pm)",
+            "violationLocation": "University Road - Beni Suef - Egypt",
+            "violationOfficerData": {
+                "name": "Mamdouh Raafat Soliman",
+                "id": 188
+            },
+            "violationStatus": "Wanted",
+            "notes": [
+                "Tint measurement exceeds legal 30% limit. Repeat offender."
+            ]
         }
 
     ],
