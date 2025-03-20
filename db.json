@@ -25,92 +25,132 @@
 
         {
             "id": 1,
+            "officerId": "12345678910",
             "name": "Omar Khaled",
-            "location": "Zagazig",
+            "username": "@omar_khaled2004",
+            "city": "Zagazig",
             "rank": "Molemn",
             "violations": 45,
-            "status": "Online"
+            "status": "Online",
+            "badgeNum": "B-7892",
+            "location": "Abu Kbir - Sharqia"
         },
 
         {
             "id": 2,
+            "officerId": "29473628101",
             "name": "Ahmed Ali",
-            "location": "Cairo",
+            "username": "@ahmed_ali1997",
+            "city": "Cairo",
             "rank": "Sergeant",
             "violations": 20,
-            "status": "Offline"
+            "status": "Offline",
+            "badgeNum": "C-1425",
+            "location": "Nasr City - Cairo"
         },
 
         {
             "id": 3,
+            "officerId": "37740192834",
             "name": "Mohamed Hassan",
-            "location": "Alexandria",
+            "username": "@mohamed_hassan88",
+            "city": "Alexandria",
             "rank": "Lieutenant",
             "violations": 5,
-            "status": "Online"
+            "status": "Online",
+            "badgeNum": "A-6578",
+            "location": "El Montaza - Alexandria"
         },
 
         {
             "id": 4,
+            "officerId": "40958736291",
             "name": "Mostafa Ibrahim",
-            "location": "Giza",
+            "username": "@mostafa_ibrahim",
+            "city": "Giza",
             "rank": "Captain",
             "violations": 12,
-            "status": "Online"
+            "status": "Online",
+            "badgeNum": "G-2022",
+            "location": "6th October - Giza"
         },
 
         {
             "id": 5,
+            "officerId": "55283749102",
             "name": "Hassan Mahmoud",
-            "location": "Mansoura",
+            "username": "@hassan_mahmoud",
+            "city": "Mansoura",
             "rank": "Major",
             "violations": 8,
-            "status": "Offline"
+            "status": "Offline",
+            "badgeNum": "M-3333",
+            "location": "Gamaleya - Mansoura"
         },
 
         {
             "id": 6,
+            "officerId": "67839201745",
             "name": "Youssef Adel",
-            "location": "Ismailia",
+            "username": "@youssef_adel",
+            "city": "Ismailia",
             "rank": "Colonel",
             "violations": 25,
-            "status": "Online"
+            "status": "Online",
+            "badgeNum": "Y-4040",
+            "location": "Ferdan - Ismailia"
         },
 
         {
             "id": 7,
+            "officerId": "71209384621",
             "name": "Karim Salah",
-            "location": "Suez",
+            "username": "@karim_salah",
+            "city": "Suez",
             "rank": "Brigadier",
             "violations": 30,
-            "status": "Offline"
+            "status": "Offline",
+            "badgeNum": "K-1999",
+            "location": "Port Tawfik - Suez"
         },
 
         {
             "id": 8,
+            "officerId": "82917364500",
             "name": "Tamer Ahmed",
-            "location": "Port Said",
+            "username": "@tamer_ahmed",
+            "city": "Port Said",
             "rank": "General",
             "violations": 15,
-            "status": "Online"
+            "status": "Online",
+            "badgeNum": "T-5555",
+            "location": "Al Manakh - Port Said"
         },
 
         {
             "id": 9,
+            "officerId": "99018273645",
             "name": "Samir Hossam",
-            "location": "Fayoum",
+            "username": "@samir_hossam",
+            "city": "Fayoum",
             "rank": "Molemn",
             "violations": 50,
-            "status": "Offline"
+            "status": "Offline",
+            "badgeNum": "S-7777",
+            "location": "Tamiya - Fayoum"
         },
 
         {
             "id": 10,
+            "officerId": "10192837465",
             "name": "Ali Farouk",
-            "location": "Tanta",
+            "username": "@ali_farouk",
+            "city": "Tanta",
             "rank": "Sergeant",
             "violations": 18,
-            "status": "Online"
+            "status": "Online",
+            "badgeNum": "A-1234",
+            "location": "El Mahalla - Tanta"
         }
 
     ],
@@ -132,9 +172,8 @@
             "violationLocation": "Zagazig - Sharqia - Egypt",
             "violationOfficerData": {
                 "name": "Khaled Mohammed Adel",
-                "id": 154
+                "id": 1
             },
-            "violationStatus": "Wanted",
             "notes": [
                 "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Culpa cupiditate ullam sit unde magnam ipsam. Commodi reiciendis nemo, id obcaecati corrupti dolorum, reprehenderit, incidunt non ut maxime doloribus animi ullam temporibus tempore voluptas harum totam perspiciatis vero nobis aperiam? Dolor dicta illo officiis, quidem odio iste alias ipsam molestias pariatur."
             ]
@@ -155,9 +194,8 @@
             "violationLocation": "Mansheya - Alexandria - Egypt",
             "violationOfficerData": {
                 "name": "Amr Samir Fawzy",
-                "id": 227
+                "id": 1
             },
-            "violationStatus": "Impounded",
             "notes": [
                 "Vehicle impounded during routine check. Driver failed to present valid license. Three previous warnings issued."
             ]
@@ -168,7 +206,7 @@
             "plateNum": "DEF-789",
             "location": "Giza",
             "violations": "Unpaid Fines",
-            "status": "Wanted",
+            "status": "Impounded",
             "brand": "Toyota Corolla 2020",
             "ownerName": "Youssef Ahmed Saleh",
             "licenseLocation": "Dokki - Giza - Egypt",
@@ -178,9 +216,8 @@
             "violationLocation": "6th of October City - Giza - Egypt",
             "violationOfficerData": {
                 "name": "Hossam Ali Abdelrahman",
-                "id": 189
+                "id": 1
             },
-            "violationStatus": "Wanted",
             "notes": [
                 "Total unpaid fines exceed 15,000 EGP. Multiple speeding violations recorded."
             ]
@@ -191,7 +228,7 @@
             "plateNum": "LMN-321",
             "location": "Mansoura",
             "violations": "Illegal Parking",
-            "status": "Impounded",
+            "status": "pending",
             "brand": "Chevrolet Optra 2016",
             "ownerName": "Karim Mohamed Tawfik",
             "licenseLocation": "Talkha - Dakahlia - Egypt",
@@ -201,9 +238,8 @@
             "violationLocation": "Gomhoria Street - Mansoura - Egypt",
             "violationOfficerData": {
                 "name": "Nader Waleed Kamal",
-                "id": 265
+                "id": 2
             },
-            "violationStatus": "Impounded",
             "notes": [
                 "Vehicle parked in no-parking zone near fire hydrant. Owner unavailable at scene."
             ]
@@ -224,9 +260,8 @@
             "violationLocation": "El-Geish Street - Tanta - Egypt",
             "violationOfficerData": {
                 "name": "Tamer Hosny Abdallah",
-                "id": 332
+                "id": 2
             },
-            "violationStatus": "Wanted",
             "notes": [
                 "Security camera footage shows vehicle colliding with pedestrian then fleeing."
             ]
@@ -237,7 +272,7 @@
             "plateNum": "GHI-987",
             "location": "Ismailia",
             "violations": "Fake License Plate",
-            "status": "Impounded",
+            "status": "pending",
             "brand": "Mitsubishi Lancer 2015",
             "ownerName": "Mostafa Ibrahim Khalil",
             "licenseLocation": "Fayed - Ismailia - Egypt",
@@ -247,9 +282,8 @@
             "violationLocation": "Mohamed Ali Road - Ismailia - Egypt",
             "violationOfficerData": {
                 "name": "Wael Samy Rashad",
-                "id": 178
+                "id": 2
             },
-            "violationStatus": "Impounded",
             "notes": [
                 "Plate number mismatch detected during automated license plate recognition scan."
             ]
@@ -270,9 +304,8 @@
             "violationLocation": "Corniche El-Nil - Fayoum - Egypt",
             "violationOfficerData": {
                 "name": "Adel Kamal Mohammed",
-                "id": 301
+                "id": 3
             },
-            "violationStatus": "Wanted",
             "notes": [
                 "Multiple reports of street racing involvement. Vehicle identified via traffic cameras."
             ]
@@ -293,9 +326,8 @@
             "violationLocation": "Cairo-Suez Highway - Egypt",
             "violationOfficerData": {
                 "name": "Karim Ashraf Sobhy",
-                "id": 214
+                "id": 3
             },
-            "violationStatus": "Impounded",
             "notes": [
                 "Radar detection in 80 km/h zone. Driver attempted to evade speed trap."
             ]
@@ -316,9 +348,8 @@
             "violationLocation": "Saad Zaghloul Street - Aswan - Egypt",
             "violationOfficerData": {
                 "name": "Mohammed Nasr El-Din",
-                "id": 198
+                "id": 3
             },
-            "violationStatus": "Wanted",
             "notes": [
                 "Failed field sobriety test. Blood alcohol level 0.12%."
             ]
@@ -329,7 +360,7 @@
             "plateNum": "STU-852",
             "location": "Luxor",
             "violations": "Insurance Expired",
-            "status": "Impounded",
+            "status": "pending",
             "brand": "Fiat Tipo 2020",
             "ownerName": "Hassan Omar El-Banna",
             "licenseLocation": "Karnak - Luxor - Egypt",
@@ -339,9 +370,8 @@
             "violationLocation": "Luxor International Airport Road - Egypt",
             "violationOfficerData": {
                 "name": "Ahmed Samir Moussa",
-                "id": 245
+                "id": 4
             },
-            "violationStatus": "Impounded",
             "notes": [
                 "Insurance expired 6 months ago. Vehicle involved in minor collision."
             ]
@@ -352,7 +382,7 @@
             "plateNum": "VWX-963",
             "location": "Port Said",
             "violations": "Vehicle Smuggling",
-            "status": "Wanted",
+            "status": "pending",
             "brand": "Jeep Grand Cherokee 2022",
             "ownerName": "Tarek Hany Farag",
             "licenseLocation": "El-Zohour District - Port Said - Egypt",
@@ -362,9 +392,8 @@
             "violationLocation": "Port Said Customs Zone - Egypt",
             "violationOfficerData": {
                 "name": "Yasser Magdy Salem",
-                "id": 276
+                "id": 4
             },
-            "violationStatus": "Wanted",
             "notes": [
                 "Customs documents forged. Vehicle VIN number tampered with."
             ]
@@ -375,7 +404,7 @@
             "plateNum": "YZA-159",
             "location": "Hurghada",
             "violations": "Modified Exhaust System",
-            "status": "Impounded",
+            "status": "Wanted",
             "brand": "BMW 320i 2019",
             "ownerName": "Fadi Samir El-Masry",
             "licenseLocation": "El-Dahar - Hurghada - Egypt",
@@ -385,9 +414,8 @@
             "violationLocation": "Marina Boulevard - Hurghada - Egypt",
             "violationOfficerData": {
                 "name": "Sherif Omar Ibrahim",
-                "id": 155
+                "id": 4
             },
-            "violationStatus": "Impounded",
             "notes": [
                 "Excessive noise pollution measured at 112 dB. Modification permit missing."
             ]
@@ -408,9 +436,8 @@
             "violationLocation": "Peace Road - Sharm El Sheikh - Egypt",
             "violationOfficerData": {
                 "name": "Osama Ahmed Fouad",
-                "id": 299
+                "id": 5
             },
-            "violationStatus": "Wanted",
             "notes": [
                 "Inspection expired 14 months ago. Brake system defects identified."
             ]
@@ -431,9 +458,8 @@
             "violationLocation": "Corniche El-Nil - Minya - Egypt",
             "violationOfficerData": {
                 "name": "Hany Magdy William",
-                "id": 201
+                "id": 5
             },
-            "violationStatus": "Impounded",
             "notes": [
                 "Temporary plates expired. Vehicle identification challenged."
             ]
@@ -444,7 +470,7 @@
             "plateNum": "HIJ-275",
             "location": "Beni Suef",
             "violations": "Tinted Windows Violation",
-            "status": "Wanted",
+            "status": "pending",
             "brand": "Hyundai Tucson 2023",
             "ownerName": "Adel Mahmoud Salama",
             "licenseLocation": "El-Wasta - Beni Suef - Egypt",
@@ -454,9 +480,8 @@
             "violationLocation": "University Road - Beni Suef - Egypt",
             "violationOfficerData": {
                 "name": "Mamdouh Raafat Soliman",
-                "id": 188
+                "id": 5
             },
-            "violationStatus": "Wanted",
             "notes": [
                 "Tint measurement exceeds legal 30% limit. Repeat offender."
             ]
