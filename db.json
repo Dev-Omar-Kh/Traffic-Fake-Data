@@ -489,6 +489,160 @@
 
     ],
 
+    "reports": [
+
+        {
+            "id": 1,
+            "title": "Unauthorized Access Alert",
+            "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "officer": { "name": "Ahmed Ali Hassan", "id": 2 },
+            "priority": "medium",
+            "isRead": false,
+            "date": "2024-07-05T14:22:45.000Z"
+        },
+
+        {
+            "id": 2,
+            "title": "Security Breach Detected",
+            "message": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "officer": { "name": "Fatima Zahra Mahmoud", "id": 3 },
+            "priority": "high",
+            "isRead": true,
+            "date": "2025-01-20T08:15:30.500Z"
+        },
+
+        {
+            "id": 3,
+            "title": "Financial Irregularity Found",
+            "message": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "officer": { "name": "Omar Khaled Mohammed", "id": 1 },
+            "priority": "low",
+            "isRead": false,
+            "date": "2023-11-30T19:45:00.750Z"
+        },
+
+        {
+            "id": 4,
+            "title": "Cybersecurity Threat",
+            "message": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "officer": { "name": "Ahmed Ali Hassan", "id": 2 },
+            "priority": "high",
+            "isRead": true,
+            "date": "2024-09-14T03:10:15.200Z"
+        },
+
+        {
+            "id": 5,
+            "title": "Data Leak Incident",
+            "message": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+            "officer": { "name": "Fatima Zahra Mahmoud", "id": 3 },
+            "priority": "medium",
+            "isRead": false,
+            "date": "2025-04-01T12:00:00.000Z"
+        },
+
+        {
+            "id": 6,
+            "title": "Fraudulent Transaction",
+            "message": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+            "officer": { "name": "Omar Khaled Mohammed", "id": 1 },
+            "priority": "high",
+            "isRead": true,
+            "date": "2023-12-25T23:59:59.999Z"
+        },
+
+        {
+            "id": 7,
+            "title": "Network Intrusion Attempt",
+            "message": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.",
+            "officer": { "name": "Ahmed Ali Hassan", "id": 2 },
+            "priority": "low",
+            "isRead": false,
+            "date": "2024-03-15T06:30:45.300Z"
+        },
+
+        {
+            "id": 8,
+            "title": "Suspicious Login Activity",
+            "message": "Adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam.",
+            "officer": { "name": "Fatima Zahra Mahmoud", "id": 3 },
+            "priority": "medium",
+            "isRead": true,
+            "date": "2025-02-28T17:20:10.100Z"
+        },
+
+        {
+            "id": 9,
+            "title": "Malware Detection Alert",
+            "message": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+            "officer": { "name": "Omar Khaled Mohammed", "id": 1 },
+            "priority": "high",
+            "isRead": false,
+            "date": "2024-08-10T09:45:30.600Z"
+        },
+
+        {
+            "id": 10,
+            "title": "Phishing Attempt Reported",
+            "message": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum.",
+            "officer": { "name": "Ahmed Ali Hassan", "id": 2 },
+            "priority": "low",
+            "isRead": true,
+            "date": "2023-10-31T18:00:00.000Z"
+        },
+
+        {
+            "id": 11,
+            "title": "Unauthorized Surveillance",
+            "message": "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi.",
+            "officer": { "name": "Fatima Zahra Mahmoud", "id": 3 },
+            "priority": "medium",
+            "isRead": false,
+            "date": "2024-05-12T04:05:20.400Z"
+        },
+
+        {
+            "id": 12,
+            "title": "System Vulnerability Found",
+            "message": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae.",
+            "officer": { "name": "Omar Khaled Mohammed", "id": 1 },
+            "priority": "high",
+            "isRead": true,
+            "date": "2025-06-07T13:55:25.700Z"
+        },
+
+        {
+            "id": 13,
+            "title": "Identity Theft Case",
+            "message": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+            "officer": { "name": "Ahmed Ali Hassan", "id": 2 },
+            "priority": "low",
+            "isRead": false,
+            "date": "2024-02-14T10:10:10.100Z"
+        },
+
+        {
+            "id": 14,
+            "title": "Physical Security Breach",
+            "message": "Omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.",
+            "officer": { "name": "Fatima Zahra Mahmoud", "id": 3 },
+            "priority": "medium",
+            "isRead": true,
+            "date": "2023-09-05T21:30:45.800Z"
+        },
+
+        {
+            "id": 15,
+            "title": "Emergency Lockdown Activated",
+            "message": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?",
+            "officer": { "name": "Omar Khaled Mohammed", "id": 1 },
+            "priority": "high",
+            "isRead": false,
+            "date": "2024-12-31T23:59:59.999Z"
+        }
+
+    ],
+
     "eCommerceData": [
 
         {
@@ -500,6 +654,7 @@
             "discount": 10,
             "status": "In Stock"
         },
+
 
         {
             "id": 2,
