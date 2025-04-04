@@ -538,482 +538,482 @@
 
         {
             "id": 1,
-            "drivingLicenseData": [
-                {"title": "ownerNameAr", "content": "Omar Khaled Mohamed Saeed"},
-                {"title": "nationalId", "content": "32541788844517"},
-                {"title": "nationality", "content": "Egyptian"},
-                {"title": "educationalQualification", "content": "Bachelor of Social Work"},
-                {"title": "issueDate", "content": "2021-12-08"},
-                {"title": "expiryDate", "content": "2021-12-05"},
-                {"title": "licenseNumber", "content": "B / 3254781"},
-                {"title": "trafficUnit", "content": "Abu Kbir Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Sharqia Traffic Department"},
-                {"title": "addressWord", "content": "Hrobit - Abu Kbir - Sharqia"}
-            ],
-            "vehicleLicenseData": [
-                {"title": "trafficUnit", "content": "Abu Kbir Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Sharqia Traffic Department"},
-                {"title": "ownerNameAr", "content": "Omar Khaled Mohamed Saeed"},
-                {"title": "addressWord", "content": "Hrobit - Abu Kbir - Sharqia"},
-                {"title": "brandWord", "content": "Nissan Qashqai 2014"},
-                {"title": "vehicleType", "content": "gasoline"},
-                {"title": "chassisNumber", "content": "3254781 - Limousine"},
-                {"title": "engineNumber", "content": "448755 - 1598cm3"},
-                {"title": "plateNumber", "content": "ABC-123"},
-                {"title": "carColor", "content": "Silver"},
-                {"title": "issueDate", "content": "2022-5-28"},
-                {"title": "expiryDate", "content": "2025-5-26"},
-                {"title": "inspectionDate", "content": "2025"},
-                {"title": "glassType", "content": "Tinted Rear Side Glass"}
-            ]
+            "drivingLicenseData": {
+                "ownerName": "Omar Khaled Mohamed Saeed",
+                "nationalId": "32541788844517",
+                "nationality": "Egyptian",
+                "educationalQualification": "Bachelor of Social Work",
+                "issueDate": "2021-12-08",
+                "expiryDate": "2021-12-05",
+                "licenseNumber": "B / 3254781",
+                "trafficUnit": "Abu Kbir Traffic Unit",
+                "trafficDepartment": "Sharqia Traffic Department",
+                "address": "Hrobit - Abu Kbir - Sharqia"
+            },
+            "vehicleLicenseData": {
+                "trafficUnit": "Abu Kbir Traffic Unit",
+                "trafficDepartment": "Sharqia Traffic Department",
+                "ownerName": "Omar Khaled Mohamed Saeed",
+                "address": "Hrobit - Abu Kbir - Sharqia",
+                "brand": "Nissan Qashqai 2014",
+                "vehicleType": "gasoline",
+                "chassisNumber": "3254781 - Limousine",
+                "engineNumber": "448755 - 1598cm3",
+                "plateNumber": "ABC-123",
+                "carColor": "Silver",
+                "issueDate": "2022-5-28",
+                "expiryDate": "2025-5-26",
+                "inspectionDate": "2025",
+                "glassType": "Tinted Rear Side Glass"
+            }
         },
 
         {
             "id": 2,
-            "drivingLicenseData": [
-                {"title": "ownerNameAr", "content": "Mohamed Ali Mahmoud Hassan"},
-                {"title": "nationalId", "content": "29876543210987"},
-                {"title": "nationality", "content": "Egyptian"},
-                {"title": "educationalQualification", "content": "Bachelor of Engineering"},
-                {"title": "issueDate", "content": "2020-03-15"},
-                {"title": "expiryDate", "content": "2025-03-15"},
-                {"title": "licenseNumber", "content": "C / 2987654"},
-                {"title": "trafficUnit", "content": "Al Attarin Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Alexandria Traffic Department"},
-                {"title": "addressWord", "content": "Mansheya - Alexandria"}
-            ],
-            "vehicleLicenseData": [
-                {"title": "trafficUnit", "content": "Al Attarin Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Alexandria Traffic Department"},
-                {"title": "ownerNameAr", "content": "Mohamed Ali Mahmoud Hassan"},
-                {"title": "addressWord", "content": "Mansheya - Alexandria"},
-                {"title": "brandWord", "content": "Hyundai Elantra 2018"},
-                {"title": "vehicleType", "content": "gasoline"},
-                {"title": "chassisNumber", "content": "2987654 - Sedan"},
-                {"title": "engineNumber", "content": "556677 - 1999cm3"},
-                {"title": "plateNumber", "content": "XYZ-456"},
-                {"title": "carColor", "content": "White"},
-                {"title": "issueDate", "content": "2018-07-20"},
-                {"title": "expiryDate", "content": "2023-07-20"},
-                {"title": "inspectionDate", "content": "2023"},
-                {"title": "glassType", "content": "Clear"}
-            ]
+            "drivingLicenseData": {
+                "ownerName": "Mohamed Ali Mahmoud Hassan",
+                "nationalId": "29876543210987",
+                "nationality": "Egyptian",
+                "educationalQualification": "Bachelor of Engineering",
+                "issueDate": "2020-03-15",
+                "expiryDate": "2025-03-15",
+                "licenseNumber": "C / 2987654",
+                "trafficUnit": "Al Attarin Traffic Unit",
+                "trafficDepartment": "Alexandria Traffic Department",
+                "address": "Mansheya - Alexandria"
+            },
+            "vehicleLicenseData": {
+                "trafficUnit": "Al Attarin Traffic Unit",
+                "trafficDepartment": "Alexandria Traffic Department",
+                "ownerName": "Mohamed Ali Mahmoud Hassan",
+                "address": "Mansheya - Alexandria",
+                "brand": "Hyundai Elantra 2018",
+                "vehicleType": "gasoline",
+                "chassisNumber": "2987654 - Sedan",
+                "engineNumber": "556677 - 1999cm3",
+                "plateNumber": "XYZ-456",
+                "carColor": "White",
+                "issueDate": "2018-07-20",
+                "expiryDate": "2023-07-20",
+                "inspectionDate": "2023",
+                "glassType": "Clear"
+            }
         },
 
         {
             "id": 3,
-            "drivingLicenseData": [
-                {"title": "ownerNameAr", "content": "Youssef Ahmed Saleh"},
-                {"title": "nationalId", "content": "28765432109876"},
-                {"title": "nationality", "content": "Egyptian"},
-                {"title": "educationalQualification", "content": "Bachelor of Medicine"},
-                {"title": "issueDate", "content": "2019-06-10"},
-                {"title": "expiryDate", "content": "2024-06-10"},
-                {"title": "licenseNumber", "content": "D / 2876543"},
-                {"title": "trafficUnit", "content": "Dokki Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Giza Traffic Department"},
-                {"title": "addressWord", "content": "Dokki - Giza"}
-            ],
-            "vehicleLicenseData": [
-                {"title": "trafficUnit", "content": "Dokki Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Giza Traffic Department"},
-                {"title": "ownerNameAr", "content": "Youssef Ahmed Saleh"},
-                {"title": "addressWord", "content": "Dokki - Giza"},
-                {"title": "brandWord", "content": "Toyota Corolla 2020"},
-                {"title": "vehicleType", "content": "gasoline"},
-                {"title": "chassisNumber", "content": "2876543 - Sedan"},
-                {"title": "engineNumber", "content": "667788 - 1800cm3"},
-                {"title": "plateNumber", "content": "DEF-789"},
-                {"title": "carColor", "content": "Black"},
-                {"title": "issueDate", "content": "2020-01-15"},
-                {"title": "expiryDate", "content": "2025-01-15"},
-                {"title": "inspectionDate", "content": "2025"},
-                {"title": "glassType", "content": "Tinted"}
-            ]
+            "drivingLicenseData": {
+                "ownerName": "Youssef Ahmed Saleh",
+                "nationalId": "28765432109876",
+                "nationality": "Egyptian",
+                "educationalQualification": "Bachelor of Medicine",
+                "issueDate": "2019-06-10",
+                "expiryDate": "2024-06-10",
+                "licenseNumber": "D / 2876543",
+                "trafficUnit": "Dokki Traffic Unit",
+                "trafficDepartment": "Giza Traffic Department",
+                "address": "Dokki - Giza"
+            },
+            "vehicleLicenseData": {
+                "trafficUnit": "Dokki Traffic Unit",
+                "trafficDepartment": "Giza Traffic Department",
+                "ownerName": "Youssef Ahmed Saleh",
+                "address": "Dokki - Giza",
+                "brand": "Toyota Corolla 2020",
+                "vehicleType": "gasoline",
+                "chassisNumber": "2876543 - Sedan",
+                "engineNumber": "667788 - 1800cm3",
+                "plateNumber": "DEF-789",
+                "carColor": "Black",
+                "issueDate": "2020-01-15",
+                "expiryDate": "2025-01-15",
+                "inspectionDate": "2025",
+                "glassType": "Tinted"
+            }
         },
 
         {
             "id": 4,
-            "drivingLicenseData": [
-                {"title": "ownerNameAr", "content": "Karim Mohamed Tawfik"},
-                {"title": "nationalId", "content": "27654321098765"},
-                {"title": "nationality", "content": "Egyptian"},
-                {"title": "educationalQualification", "content": "Bachelor of Commerce"},
-                {"title": "issueDate", "content": "2018-09-25"},
-                {"title": "expiryDate", "content": "2023-09-25"},
-                {"title": "licenseNumber", "content": "E / 2765432"},
-                {"title": "trafficUnit", "content": "Talkha Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Dakahlia Traffic Department"},
-                {"title": "addressWord", "content": "Talkha - Dakahlia"}
-            ],
-            "vehicleLicenseData": [
-                {"title": "trafficUnit", "content": "Talkha Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Dakahlia Traffic Department"},
-                {"title": "ownerNameAr", "content": "Karim Mohamed Tawfik"},
-                {"title": "addressWord", "content": "Talkha - Dakahlia"},
-                {"title": "brandWord", "content": "Chevrolet Optra 2016"},
-                {"title": "vehicleType", "content": "gasoline"},
-                {"title": "chassisNumber", "content": "2765432 - Sedan"},
-                {"title": "engineNumber", "content": "778899 - 1600cm3"},
-                {"title": "plateNumber", "content": "LMN-321"},
-                {"title": "carColor", "content": "Blue"},
-                {"title": "issueDate", "content": "2016-11-30"},
-                {"title": "expiryDate", "content": "2021-11-30"},
-                {"title": "inspectionDate", "content": "2021"},
-                {"title": "glassType", "content": "Clear"}
-            ]
+            "drivingLicenseData": {
+                "ownerName": "Karim Mohamed Tawfik",
+                "nationalId": "27654321098765",
+                "nationality": "Egyptian",
+                "educationalQualification": "Bachelor of Commerce",
+                "issueDate": "2018-09-25",
+                "expiryDate": "2023-09-25",
+                "licenseNumber": "E / 2765432",
+                "trafficUnit": "Talkha Traffic Unit",
+                "trafficDepartment": "Dakahlia Traffic Department",
+                "address": "Talkha - Dakahlia"
+            },
+            "vehicleLicenseData": {
+                "trafficUnit": "Talkha Traffic Unit",
+                "trafficDepartment": "Dakahlia Traffic Department",
+                "ownerName": "Karim Mohamed Tawfik",
+                "address": "Talkha - Dakahlia",
+                "brand": "Chevrolet Optra 2016",
+                "vehicleType": "gasoline",
+                "chassisNumber": "2765432 - Sedan",
+                "engineNumber": "778899 - 1600cm3",
+                "plateNumber": "LMN-321",
+                "carColor": "Blue",
+                "issueDate": "2016-11-30",
+                "expiryDate": "2021-11-30",
+                "inspectionDate": "2021",
+                "glassType": "Clear"
+            }
         },
 
         {
             "id": 5,
-            "drivingLicenseData": [
-                {"title": "ownerNameAr", "content": "Omar Khaled Fawzy"},
-                {"title": "nationalId", "content": "26543210987654"},
-                {"title": "nationality", "content": "Egyptian"},
-                {"title": "educationalQualification", "content": "Bachelor of Law"},
-                {"title": "issueDate", "content": "2017-04-12"},
-                {"title": "expiryDate", "content": "2022-04-12"},
-                {"title": "licenseNumber", "content": "F / 2654321"},
-                {"title": "trafficUnit", "content": "El-Santa Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Gharbia Traffic Department"},
-                {"title": "addressWord", "content": "El-Santa - Gharbia"}
-            ],
-            "vehicleLicenseData": [
-                {"title": "trafficUnit", "content": "El-Santa Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Gharbia Traffic Department"},
-                {"title": "ownerNameAr", "content": "Omar Khaled Fawzy"},
-                {"title": "addressWord", "content": "El-Santa - Gharbia"},
-                {"title": "brandWord", "content": "Kia Picanto 2019"},
-                {"title": "vehicleType", "content": "gasoline"},
-                {"title": "chassisNumber", "content": "2654321 - Hatchback"},
-                {"title": "engineNumber", "content": "889900 - 1000cm3"},
-                {"title": "plateNumber", "content": "QRS-654"},
-                {"title": "carColor", "content": "Red"},
-                {"title": "issueDate", "content": "2019-08-05"},
-                {"title": "expiryDate", "content": "2024-08-05"},
-                {"title": "inspectionDate", "content": "2024"},
-                {"title": "glassType", "content": "Tinted"}
-            ]
+            "drivingLicenseData": {
+                "ownerName": "Omar Khaled Fawzy",
+                "nationalId": "26543210987654",
+                "nationality": "Egyptian",
+                "educationalQualification": "Bachelor of Law",
+                "issueDate": "2017-04-12",
+                "expiryDate": "2022-04-12",
+                "licenseNumber": "F / 2654321",
+                "trafficUnit": "El-Santa Traffic Unit",
+                "trafficDepartment": "Gharbia Traffic Department",
+                "address": "El-Santa - Gharbia"
+            },
+            "vehicleLicenseData": {
+                "trafficUnit": "El-Santa Traffic Unit",
+                "trafficDepartment": "Gharbia Traffic Department",
+                "ownerName": "Omar Khaled Fawzy",
+                "address": "El-Santa - Gharbia",
+                "brand": "Kia Picanto 2019",
+                "vehicleType": "gasoline",
+                "chassisNumber": "2654321 - Hatchback",
+                "engineNumber": "889900 - 1000cm3",
+                "plateNumber": "QRS-654",
+                "carColor": "Red",
+                "issueDate": "2019-08-05",
+                "expiryDate": "2024-08-05",
+                "inspectionDate": "2024",
+                "glassType": "Tinted"
+            }
         },
 
         {
             "id": 6,
-            "drivingLicenseData": [
-                {"title": "ownerNameAr", "content": "Mostafa Ibrahim Khalil"},
-                {"title": "nationalId", "content": "25432109876543"},
-                {"title": "nationality", "content": "Egyptian"},
-                {"title": "educationalQualification", "content": "Bachelor of Science"},
-                {"title": "issueDate", "content": "2016-11-20"},
-                {"title": "expiryDate", "content": "2021-11-20"},
-                {"title": "licenseNumber", "content": "G / 2543210"},
-                {"title": "trafficUnit", "content": "Fayed Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Ismailia Traffic Department"},
-                {"title": "addressWord", "content": "Fayed - Ismailia"}
-            ],
-            "vehicleLicenseData": [
-                {"title": "trafficUnit", "content": "Fayed Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Ismailia Traffic Department"},
-                {"title": "ownerNameAr", "content": "Mostafa Ibrahim Khalil"},
-                {"title": "addressWord", "content": "Fayed - Ismailia"},
-                {"title": "brandWord", "content": "Mitsubishi Lancer 2015"},
-                {"title": "vehicleType", "content": "gasoline"},
-                {"title": "chassisNumber", "content": "2543210 - Sedan"},
-                {"title": "engineNumber", "content": "990011 - 2000cm3"},
-                {"title": "plateNumber", "content": "GHI-987"},
-                {"title": "carColor", "content": "Gray"},
-                {"title": "issueDate", "content": "2015-03-10"},
-                {"title": "expiryDate", "content": "2020-03-10"},
-                {"title": "inspectionDate", "content": "2020"},
-                {"title": "glassType", "content": "Clear"}
-            ]
+            "drivingLicenseData": {
+                "ownerName": "Mostafa Ibrahim Khalil",
+                "nationalId": "25432109876543",
+                "nationality": "Egyptian",
+                "educationalQualification": "Bachelor of Science",
+                "issueDate": "2016-11-20",
+                "expiryDate": "2021-11-20",
+                "licenseNumber": "G / 2543210",
+                "trafficUnit": "Fayed Traffic Unit",
+                "trafficDepartment": "Ismailia Traffic Department",
+                "address": "Fayed - Ismailia"
+            },
+            "vehicleLicenseData": {
+                "trafficUnit": "Fayed Traffic Unit",
+                "trafficDepartment": "Ismailia Traffic Department",
+                "ownerName": "Mostafa Ibrahim Khalil",
+                "address": "Fayed - Ismailia",
+                "brand": "Mitsubishi Lancer 2015",
+                "vehicleType": "gasoline",
+                "chassisNumber": "2543210 - Sedan",
+                "engineNumber": "990011 - 2000cm3",
+                "plateNumber": "GHI-987",
+                "carColor": "Gray",
+                "issueDate": "2015-03-10",
+                "expiryDate": "2020-03-10",
+                "inspectionDate": "2020",
+                "glassType": "Clear"
+            }
         },
 
         {
             "id": 7,
-            "drivingLicenseData": [
-                {"title": "ownerNameAr", "content": "Walid Said Abdelghany"},
-                {"title": "nationalId", "content": "24321098765432"},
-                {"title": "nationality", "content": "Egyptian"},
-                {"title": "educationalQualification", "content": "Bachelor of Arts"},
-                {"title": "issueDate", "content": "2015-08-15"},
-                {"title": "expiryDate", "content": "2020-08-15"},
-                {"title": "licenseNumber", "content": "H / 2432109"},
-                {"title": "trafficUnit", "content": "Tamiya Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Fayoum Traffic Department"},
-                {"title": "addressWord", "content": "Tamiya - Fayoum"}
-            ],
-            "vehicleLicenseData": [
-                {"title": "trafficUnit", "content": "Tamiya Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Fayoum Traffic Department"},
-                {"title": "ownerNameAr", "content": "Walid Said Abdelghany"},
-                {"title": "addressWord", "content": "Tamiya - Fayoum"},
-                {"title": "brandWord", "content": "Renault Logan 2017"},
-                {"title": "vehicleType", "content": "gasoline"},
-                {"title": "chassisNumber", "content": "2432109 - Sedan"},
-                {"title": "engineNumber", "content": "001122 - 1600cm3"},
-                {"title": "plateNumber", "content": "JKL-258"},
-                {"title": "carColor", "content": "White"},
-                {"title": "issueDate", "content": "2017-05-20"},
-                {"title": "expiryDate", "content": "2022-05-20"},
-                {"title": "inspectionDate", "content": "2022"},
-                {"title": "glassType", "content": "Tinted"}
-            ]
+            "drivingLicenseData": {
+                "ownerName": "Walid Said Abdelghany",
+                "nationalId": "24321098765432",
+                "nationality": "Egyptian",
+                "educationalQualification": "Bachelor of Arts",
+                "issueDate": "2015-08-15",
+                "expiryDate": "2020-08-15",
+                "licenseNumber": "H / 2432109",
+                "trafficUnit": "Tamiya Traffic Unit",
+                "trafficDepartment": "Fayoum Traffic Department",
+                "address": "Tamiya - Fayoum"
+            },
+            "vehicleLicenseData": {
+                "trafficUnit": "Tamiya Traffic Unit",
+                "trafficDepartment": "Fayoum Traffic Department",
+                "ownerName": "Walid Said Abdelghany",
+                "address": "Tamiya - Fayoum",
+                "brand": "Renault Logan 2017",
+                "vehicleType": "gasoline",
+                "chassisNumber": "2432109 - Sedan",
+                "engineNumber": "001122 - 1600cm3",
+                "plateNumber": "JKL-258",
+                "carColor": "White",
+                "issueDate": "2017-05-20",
+                "expiryDate": "2022-05-20",
+                "inspectionDate": "2022",
+                "glassType": "Tinted"
+            }
         },
 
         {
             "id": 8,
-            "drivingLicenseData": [
-                {"title": "ownerNameAr", "content": "Mahmoud Tarek El-Shenawy"},
-                {"title": "nationalId", "content": "23210987654321"},
-                {"title": "nationality", "content": "Egyptian"},
-                {"title": "educationalQualification", "content": "Bachelor of Pharmacy"},
-                {"title": "issueDate", "content": "2014-12-30"},
-                {"title": "expiryDate", "content": "2019-12-30"},
-                {"title": "licenseNumber", "content": "I / 2321098"},
-                {"title": "trafficUnit", "content": "Arbaeen Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Suez Traffic Department"},
-                {"title": "addressWord", "content": "Arbaeen - Suez"}
-            ],
-            "vehicleLicenseData": [
-                {"title": "trafficUnit", "content": "Arbaeen Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Suez Traffic Department"},
-                {"title": "ownerNameAr", "content": "Mahmoud Tarek El-Shenawy"},
-                {"title": "addressWord", "content": "Arbaeen - Suez"},
-                {"title": "brandWord", "content": "Peugeot 301 2021"},
-                {"title": "vehicleType", "content": "gasoline"},
-                {"title": "chassisNumber", "content": "2321098 - Sedan"},
-                {"title": "engineNumber", "content": "112233 - 1500cm3"},
-                {"title": "plateNumber", "content": "MNO-369"},
-                {"title": "carColor", "content": "Black"},
-                {"title": "issueDate", "content": "2021-02-15"},
-                {"title": "expiryDate", "content": "2026-02-15"},
-                {"title": "inspectionDate", "content": "2026"},
-                {"title": "glassType", "content": "Clear"}
-            ]
+            "drivingLicenseData": {
+                "ownerName": "Mahmoud Tarek El-Shenawy",
+                "nationalId": "23210987654321",
+                "nationality": "Egyptian",
+                "educationalQualification": "Bachelor of Pharmacy",
+                "issueDate": "2014-12-30",
+                "expiryDate": "2019-12-30",
+                "licenseNumber": "I / 2321098",
+                "trafficUnit": "Arbaeen Traffic Unit",
+                "trafficDepartment": "Suez Traffic Department",
+                "address": "Arbaeen - Suez"
+            },
+            "vehicleLicenseData": {
+                "trafficUnit": "Arbaeen Traffic Unit",
+                "trafficDepartment": "Suez Traffic Department",
+                "ownerName": "Mahmoud Tarek El-Shenawy",
+                "address": "Arbaeen - Suez",
+                "brand": "Peugeot 301 2021",
+                "vehicleType": "gasoline",
+                "chassisNumber": "2321098 - Sedan",
+                "engineNumber": "112233 - 1500cm3",
+                "plateNumber": "MNO-369",
+                "carColor": "Black",
+                "issueDate": "2021-02-15",
+                "expiryDate": "2026-02-15",
+                "inspectionDate": "2026",
+                "glassType": "Clear"
+            }
         },
 
         {
             "id": 9,
-            "drivingLicenseData": [
-                {"title": "ownerNameAr", "content": "Ibrahim Khalil Hassan"},
-                {"title": "nationalId", "content": "22109876543210"},
-                {"title": "nationality", "content": "Egyptian"},
-                {"title": "educationalQualification", "content": "Bachelor of Agriculture"},
-                {"title": "issueDate", "content": "2013-07-22"},
-                {"title": "expiryDate", "content": "2018-07-22"},
-                {"title": "licenseNumber", "content": "J / 2210987"},
-                {"title": "trafficUnit", "content": "Kom Ombo Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Aswan Traffic Department"},
-                {"title": "addressWord", "content": "Kom Ombo - Aswan"}
-            ],
-            "vehicleLicenseData": [
-                {"title": "trafficUnit", "content": "Kom Ombo Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Aswan Traffic Department"},
-                {"title": "ownerNameAr", "content": "Ibrahim Khalil Hassan"},
-                {"title": "addressWord", "content": "Kom Ombo - Aswan"},
-                {"title": "brandWord", "content": "Ford Focus 2018"},
-                {"title": "vehicleType", "content": "gasoline"},
-                {"title": "chassisNumber", "content": "2210987 - Hatchback"},
-                {"title": "engineNumber", "content": "223344 - 1800cm3"},
-                {"title": "plateNumber", "content": "PQR-741"},
-                {"title": "carColor", "content": "Blue"},
-                {"title": "issueDate", "content": "2018-09-10"},
-                {"title": "expiryDate", "content": "2023-09-10"},
-                {"title": "inspectionDate", "content": "2023"},
-                {"title": "glassType", "content": "Tinted"}
-            ]
+            "drivingLicenseData": {
+                "ownerName": "Ibrahim Khalil Hassan",
+                "nationalId": "22109876543210",
+                "nationality": "Egyptian",
+                "educationalQualification": "Bachelor of Agriculture",
+                "issueDate": "2013-07-22",
+                "expiryDate": "2018-07-22",
+                "licenseNumber": "J / 2210987",
+                "trafficUnit": "Kom Ombo Traffic Unit",
+                "trafficDepartment": "Aswan Traffic Department",
+                "address": "Kom Ombo - Aswan"
+            },
+            "vehicleLicenseData": {
+                "trafficUnit": "Kom Ombo Traffic Unit",
+                "trafficDepartment": "Aswan Traffic Department",
+                "ownerName": "Ibrahim Khalil Hassan",
+                "address": "Kom Ombo - Aswan",
+                "brand": "Ford Focus 2018",
+                "vehicleType": "gasoline",
+                "chassisNumber": "2210987 - Hatchback",
+                "engineNumber": "223344 - 1800cm3",
+                "plateNumber": "PQR-741",
+                "carColor": "Blue",
+                "issueDate": "2018-09-10",
+                "expiryDate": "2023-09-10",
+                "inspectionDate": "2023",
+                "glassType": "Tinted"
+            }
         },
 
         {
             "id": 10,
-            "drivingLicenseData": [
-                {"title": "ownerNameAr", "content": "Hassan Omar El-Banna"},
-                {"title": "nationalId", "content": "21098765432109"},
-                {"title": "nationality", "content": "Egyptian"},
-                {"title": "educationalQualification", "content": "Bachelor of Education"},
-                {"title": "issueDate", "content": "2012-10-05"},
-                {"title": "expiryDate", "content": "2017-10-05"},
-                {"title": "licenseNumber", "content": "K / 2109876"},
-                {"title": "trafficUnit", "content": "Karnak Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Luxor Traffic Department"},
-                {"title": "addressWord", "content": "Karnak - Luxor"}
-            ],
-            "vehicleLicenseData": [
-                {"title": "trafficUnit", "content": "Karnak Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Luxor Traffic Department"},
-                {"title": "ownerNameAr", "content": "Hassan Omar El-Banna"},
-                {"title": "addressWord", "content": "Karnak - Luxor"},
-                {"title": "brandWord", "content": "Fiat Tipo 2020"},
-                {"title": "vehicleType", "content": "gasoline"},
-                {"title": "chassisNumber", "content": "2109876 - Sedan"},
-                {"title": "engineNumber", "content": "334455 - 1400cm3"},
-                {"title": "plateNumber", "content": "STU-852"},
-                {"title": "carColor", "content": "Silver"},
-                {"title": "issueDate", "content": "2020-04-25"},
-                {"title": "expiryDate", "content": "2025-04-25"},
-                {"title": "inspectionDate", "content": "2025"},
-                {"title": "glassType", "content": "Clear"}
-            ]
+            "drivingLicenseData": {
+                "ownerName": "Hassan Omar El-Banna",
+                "nationalId": "21098765432109",
+                "nationality": "Egyptian",
+                "educationalQualification": "Bachelor of Education",
+                "issueDate": "2012-10-05",
+                "expiryDate": "2017-10-05",
+                "licenseNumber": "K / 2109876",
+                "trafficUnit": "Karnak Traffic Unit",
+                "trafficDepartment": "Luxor Traffic Department",
+                "address": "Karnak - Luxor"
+            },
+            "vehicleLicenseData": {
+                "trafficUnit": "Karnak Traffic Unit",
+                "trafficDepartment": "Luxor Traffic Department",
+                "ownerName": "Hassan Omar El-Banna",
+                "address": "Karnak - Luxor",
+                "brand": "Fiat Tipo 2020",
+                "vehicleType": "gasoline",
+                "chassisNumber": "2109876 - Sedan",
+                "engineNumber": "334455 - 1400cm3",
+                "plateNumber": "STU-852",
+                "carColor": "Silver",
+                "issueDate": "2020-04-25",
+                "expiryDate": "2025-04-25",
+                "inspectionDate": "2025",
+                "glassType": "Clear"
+            }
         },
 
         {
             "id": 11,
-            "drivingLicenseData": [
-                {"title": "ownerNameAr", "content": "Tarek Hany Farag"},
-                {"title": "nationalId", "content": "20987654321098"},
-                {"title": "nationality", "content": "Egyptian"},
-                {"title": "educationalQualification", "content": "Bachelor of Business"},
-                {"title": "issueDate", "content": "2011-05-18"},
-                {"title": "expiryDate", "content": "2016-05-18"},
-                {"title": "licenseNumber", "content": "L / 2098765"},
-                {"title": "trafficUnit", "content": "El-Zohour Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Port Said Traffic Department"},
-                {"title": "addressWord", "content": "El-Zohour District - Port Said"}
-            ],
-            "vehicleLicenseData": [
-                {"title": "trafficUnit", "content": "El-Zohour Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Port Said Traffic Department"},
-                {"title": "ownerNameAr", "content": "Tarek Hany Farag"},
-                {"title": "addressWord", "content": "El-Zohour District - Port Said"},
-                {"title": "brandWord", "content": "Jeep Grand Cherokee 2022"},
-                {"title": "vehicleType", "content": "gasoline"},
-                {"title": "chassisNumber", "content": "2098765 - SUV"},
-                {"title": "engineNumber", "content": "445566 - 3000cm3"},
-                {"title": "plateNumber", "content": "VWX-963"},
-                {"title": "carColor", "content": "Black"},
-                {"title": "issueDate", "content": "2022-01-10"},
-                {"title": "expiryDate", "content": "2027-01-10"},
-                {"title": "inspectionDate", "content": "2027"},
-                {"title": "glassType", "content": "Tinted"}
-            ]
+            "drivingLicenseData": {
+                "ownerName": "Tarek Hany Farag",
+                "nationalId": "20987654321098",
+                "nationality": "Egyptian",
+                "educationalQualification": "Bachelor of Business",
+                "issueDate": "2011-05-18",
+                "expiryDate": "2016-05-18",
+                "licenseNumber": "L / 2098765",
+                "trafficUnit": "El-Zohour Traffic Unit",
+                "trafficDepartment": "Port Said Traffic Department",
+                "address": "El-Zohour District - Port Said"
+            },
+            "vehicleLicenseData": {
+                "trafficUnit": "El-Zohour Traffic Unit",
+                "trafficDepartment": "Port Said Traffic Department",
+                "ownerName": "Tarek Hany Farag",
+                "address": "El-Zohour District - Port Said",
+                "brand": "Jeep Grand Cherokee 2022",
+                "vehicleType": "gasoline",
+                "chassisNumber": "2098765 - SUV",
+                "engineNumber": "445566 - 3000cm3",
+                "plateNumber": "VWX-963",
+                "carColor": "Black",
+                "issueDate": "2022-01-10",
+                "expiryDate": "2027-01-10",
+                "inspectionDate": "2027",
+                "glassType": "Tinted"
+            }
         },
 
         {
             "id": 12,
-            "drivingLicenseData": [
-                {"title": "ownerNameAr", "content": "Fadi Samir El-Masry"},
-                {"title": "nationalId", "content": "19876543210987"},
-                {"title": "nationality", "content": "Egyptian"},
-                {"title": "educationalQualification", "content": "Bachelor of Architecture"},
-                {"title": "issueDate", "content": "2010-03-30"},
-                {"title": "expiryDate", "content": "2015-03-30"},
-                {"title": "licenseNumber", "content": "M / 1987654"},
-                {"title": "trafficUnit", "content": "El-Dahar Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Hurghada Traffic Department"},
-                {"title": "addressWord", "content": "El-Dahar - Hurghada"}
-            ],
-            "vehicleLicenseData": [
-                {"title": "trafficUnit", "content": "El-Dahar Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Hurghada Traffic Department"},
-                {"title": "ownerNameAr", "content": "Fadi Samir El-Masry"},
-                {"title": "addressWord", "content": "El-Dahar - Hurghada"},
-                {"title": "brandWord", "content": "BMW 320i 2019"},
-                {"title": "vehicleType", "content": "gasoline"},
-                {"title": "chassisNumber", "content": "1987654 - Sedan"},
-                {"title": "engineNumber", "content": "556677 - 2000cm3"},
-                {"title": "plateNumber", "content": "YZA-159"},
-                {"title": "carColor", "content": "White"},
-                {"title": "issueDate", "content": "2019-07-15"},
-                {"title": "expiryDate", "content": "2024-07-15"},
-                {"title": "inspectionDate", "content": "2024"},
-                {"title": "glassType", "content": "Tinted"}
-            ]
+            "drivingLicenseData": {
+                "ownerName": "Fadi Samir El-Masry",
+                "nationalId": "19876543210987",
+                "nationality": "Egyptian",
+                "educationalQualification": "Bachelor of Architecture",
+                "issueDate": "2010-03-30",
+                "expiryDate": "2015-03-30",
+                "licenseNumber": "M / 1987654",
+                "trafficUnit": "El-Dahar Traffic Unit",
+                "trafficDepartment": "Hurghada Traffic Department",
+                "address": "El-Dahar - Hurghada"
+            },
+            "vehicleLicenseData": {
+                "trafficUnit": "El-Dahar Traffic Unit",
+                "trafficDepartment": "Hurghada Traffic Department",
+                "ownerName": "Fadi Samir El-Masry",
+                "address": "El-Dahar - Hurghada",
+                "brand": "BMW 320i 2019",
+                "vehicleType": "gasoline",
+                "chassisNumber": "1987654 - Sedan",
+                "engineNumber": "556677 - 2000cm3",
+                "plateNumber": "YZA-159",
+                "carColor": "White",
+                "issueDate": "2019-07-15",
+                "expiryDate": "2024-07-15",
+                "inspectionDate": "2024",
+                "glassType": "Tinted"
+            }
         },
 
         {
             "id": 13,
-            "drivingLicenseData": [
-                {"title": "ownerNameAr", "content": "Ayman Salah El-Din"},
-                {"title": "nationalId", "content": "18765432109876"},
-                {"title": "nationality", "content": "Egyptian"},
-                {"title": "educationalQualification", "content": "Bachelor of Computer Science"},
-                {"title": "issueDate", "content": "2009-11-12"},
-                {"title": "expiryDate", "content": "2014-11-12"},
-                {"title": "licenseNumber", "content": "N / 1876543"},
-                {"title": "trafficUnit", "content": "Naama Bay Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Sharm El Sheikh Traffic Department"},
-                {"title": "addressWord", "content": "Naama Bay - Sharm El Sheikh"}
-            ],
-            "vehicleLicenseData": [
-                {"title": "trafficUnit", "content": "Naama Bay Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Sharm El Sheikh Traffic Department"},
-                {"title": "ownerNameAr", "content": "Ayman Salah El-Din"},
-                {"title": "addressWord", "content": "Naama Bay - Sharm El Sheikh"},
-                {"title": "brandWord", "content": "Mercedes C200 2017"},
-                {"title": "vehicleType", "content": "gasoline"},
-                {"title": "chassisNumber", "content": "1876543 - Sedan"},
-                {"title": "engineNumber", "content": "667788 - 2000cm3"},
-                {"title": "plateNumber", "content": "BCD-753"},
-                {"title": "carColor", "content": "Black"},
-                {"title": "issueDate", "content": "2017-12-20"},
-                {"title": "expiryDate", "content": "2022-12-20"},
-                {"title": "inspectionDate", "content": "2022"},
-                {"title": "glassType", "content": "Tinted"}
-            ]
+            "drivingLicenseData": {
+                "ownerName": "Ayman Salah El-Din",
+                "nationalId": "18765432109876",
+                "nationality": "Egyptian",
+                "educationalQualification": "Bachelor of Computer Science",
+                "issueDate": "2009-11-12",
+                "expiryDate": "2014-11-12",
+                "licenseNumber": "N / 1876543",
+                "trafficUnit": "Naama Bay Traffic Unit",
+                "trafficDepartment": "Sharm El Sheikh Traffic Department",
+                "address": "Naama Bay - Sharm El Sheikh"
+            },
+            "vehicleLicenseData": {
+                "trafficUnit": "Naama Bay Traffic Unit",
+                "trafficDepartment": "Sharm El Sheikh Traffic Department",
+                "ownerName": "Ayman Salah El-Din",
+                "address": "Naama Bay - Sharm El Sheikh",
+                "brand": "Mercedes C200 2017",
+                "vehicleType": "gasoline",
+                "chassisNumber": "1876543 - Sedan",
+                "engineNumber": "667788 - 2000cm3",
+                "plateNumber": "BCD-753",
+                "carColor": "Black",
+                "issueDate": "2017-12-20",
+                "expiryDate": "2022-12-20",
+                "inspectionDate": "2022",
+                "glassType": "Tinted"
+            }
         },
 
         {
             "id": 14,
-            "drivingLicenseData": [
-                {"title": "ownerNameAr", "content": "Sameh Nabil Awad"},
-                {"title": "nationalId", "content": "17654321098765"},
-                {"title": "nationality", "content": "Egyptian"},
-                {"title": "educationalQualification", "content": "Bachelor of Veterinary Medicine"},
-                {"title": "issueDate", "content": "2008-08-25"},
-                {"title": "expiryDate", "content": "2013-08-25"},
-                {"title": "licenseNumber", "content": "O / 1765432"},
-                {"title": "trafficUnit", "content": "Beni Mazar Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Minya Traffic Department"},
-                {"title": "addressWord", "content": "Beni Mazar - Minya"}
-            ],
-            "vehicleLicenseData": [
-                {"title": "trafficUnit", "content": "Beni Mazar Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Minya Traffic Department"},
-                {"title": "ownerNameAr", "content": "Sameh Nabil Awad"},
-                {"title": "addressWord", "content": "Beni Mazar - Minya"},
-                {"title": "brandWord", "content": "Chery Tiggo 2021"},
-                {"title": "vehicleType", "content": "gasoline"},
-                {"title": "chassisNumber", "content": "1765432 - SUV"},
-                {"title": "engineNumber", "content": "778899 - 1500cm3"},
-                {"title": "plateNumber", "content": "EFG-684"},
-                {"title": "carColor", "content": "Red"},
-                {"title": "issueDate", "content": "2021-03-05"},
-                {"title": "expiryDate", "content": "2026-03-05"},
-                {"title": "inspectionDate", "content": "2026"},
-                {"title": "glassType", "content": "Clear"}
-            ]
+            "drivingLicenseData": {
+                "ownerName": "Sameh Nabil Awad",
+                "nationalId": "17654321098765",
+                "nationality": "Egyptian",
+                "educationalQualification": "Bachelor of Veterinary Medicine",
+                "issueDate": "2008-08-25",
+                "expiryDate": "2013-08-25",
+                "licenseNumber": "O / 1765432",
+                "trafficUnit": "Beni Mazar Traffic Unit",
+                "trafficDepartment": "Minya Traffic Department",
+                "address": "Beni Mazar - Minya"
+            },
+            "vehicleLicenseData": {
+                "trafficUnit": "Beni Mazar Traffic Unit",
+                "trafficDepartment": "Minya Traffic Department",
+                "ownerName": "Sameh Nabil Awad",
+                "address": "Beni Mazar - Minya",
+                "brand": "Chery Tiggo 2021",
+                "vehicleType": "gasoline",
+                "chassisNumber": "1765432 - SUV",
+                "engineNumber": "778899 - 1500cm3",
+                "plateNumber": "EFG-684",
+                "carColor": "Red",
+                "issueDate": "2021-03-05",
+                "expiryDate": "2026-03-05",
+                "inspectionDate": "2026",
+                "glassType": "Clear"
+            }
         },
 
         {
             "id": 15,
-            "drivingLicenseData": [
-                {"title": "ownerNameAr", "content": "Adel Mahmoud Salama"},
-                {"title": "nationalId", "content": "16543210987654"},
-                {"title": "nationality", "content": "Egyptian"},
-                {"title": "educationalQualification", "content": "Bachelor of Dentistry"},
-                {"title": "issueDate", "content": "2007-04-15"},
-                {"title": "expiryDate", "content": "2012-04-15"},
-                {"title": "licenseNumber", "content": "P / 1654321"},
-                {"title": "trafficUnit", "content": "El-Wasta Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Beni Suef Traffic Department"},
-                {"title": "addressWord", "content": "El-Wasta - Beni Suef"}
-            ],
-            "vehicleLicenseData": [
-                {"title": "trafficUnit", "content": "El-Wasta Traffic Unit"},
-                {"title": "trafficDepartment", "content": "Beni Suef Traffic Department"},
-                {"title": "ownerNameAr", "content": "Adel Mahmoud Salama"},
-                {"title": "addressWord", "content": "El-Wasta - Beni Suef"},
-                {"title": "brandWord", "content": "Hyundai Tucson 2023"},
-                {"title": "vehicleType", "content": "gasoline"},
-                {"title": "chassisNumber", "content": "1654321 - SUV"},
-                {"title": "engineNumber", "content": "889900 - 2000cm3"},
-                {"title": "plateNumber", "content": "HIJ-275"},
-                {"title": "carColor", "content": "Gray"},
-                {"title": "issueDate", "content": "2023-01-10"},
-                {"title": "expiryDate", "content": "2028-01-10"},
-                {"title": "inspectionDate", "content": "2028"},
-                {"title": "glassType", "content": "Tinted"}
-            ]
+            "drivingLicenseData": {
+                "ownerName": "Adel Mahmoud Salama",
+                "nationalId": "16543210987654",
+                "nationality": "Egyptian",
+                "educationalQualification": "Bachelor of Dentistry",
+                "issueDate": "2007-04-15",
+                "expiryDate": "2012-04-15",
+                "licenseNumber": "P / 1654321",
+                "trafficUnit": "El-Wasta Traffic Unit",
+                "trafficDepartment": "Beni Suef Traffic Department",
+                "address": "El-Wasta - Beni Suef"
+            },
+            "vehicleLicenseData": {
+                "trafficUnit": "El-Wasta Traffic Unit",
+                "trafficDepartment": "Beni Suef Traffic Department",
+                "ownerName": "Adel Mahmoud Salama",
+                "address": "El-Wasta - Beni Suef",
+                "brand": "Hyundai Tucson 2023",
+                "vehicleType": "gasoline",
+                "chassisNumber": "1654321 - SUV",
+                "engineNumber": "889900 - 2000cm3",
+                "plateNumber": "HIJ-275",
+                "carColor": "Gray",
+                "issueDate": "2023-01-10",
+                "expiryDate": "2028-01-10",
+                "inspectionDate": "2028",
+                "glassType": "Tinted"
+            }
         }
 
     ],
