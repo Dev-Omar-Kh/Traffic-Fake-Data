@@ -1461,6 +1461,192 @@
             "status": "In Stock"
         }
 
+    ],
+
+    "logsData": [
+
+        {
+            "id": 1,
+            "performedBy": "Omar Khaled Mohammed",
+            "action": "Login",
+            "date": "2024-12-31T23:59:59.999Z"
+        },
+
+        {
+            "id": 2,
+            "performedBy": "Ahmed Ali Hassan",
+            "action": "Logout",
+            "date": "2024-12-31T23:45:30.000Z"
+        },
+
+        {
+            "id": 3,
+            "performedBy": "Fatima Zahra Mahmoud",
+            "action": "Create Report",
+            "date": "2024-12-31T23:30:15.000Z"
+        },
+
+        {
+            "id": 4,
+            "performedBy": "Mohamed Hassan",
+            "action": "Update Vehicle Data",
+            "date": "2024-12-31T23:15:45.000Z"
+        },
+
+        {
+            "id": 5,
+            "performedBy": "Karim Salah",
+            "action": "Delete Record",
+            "date": "2024-12-31T23:00:00.000Z"
+        },
+
+        {
+            "id": 6,
+            "performedBy": "Youssef Adel",
+            "action": "View Dashboard",
+            "date": "2024-12-31T22:45:30.000Z"
+        },
+
+        {
+            "id": 7,
+            "performedBy": "Tamer Ahmed",
+            "action": "Export Data",
+            "date": "2024-12-31T22:30:15.000Z"
+        },
+
+        {
+            "id": 8,
+            "performedBy": "Samir Hossam",
+            "action": "Import Data",
+            "date": "2024-12-31T22:15:45.000Z"
+        },
+
+        {
+            "id": 9,
+            "performedBy": "Ali Farouk",
+            "action": "Edit Profile",
+            "date": "2024-12-31T22:00:00.000Z"
+        },
+
+        {
+            "id": 10,
+            "performedBy": "Mostafa Ibrahim",
+            "action": "Change Password",
+            "date": "2024-12-31T21:45:30.000Z"
+        },
+
+        {
+            "id": 11,
+            "performedBy": "Hassan Mahmoud",
+            "action": "View Reports",
+            "date": "2024-12-31T21:30:15.000Z"
+        },
+
+        {
+            "id": 12,
+            "performedBy": "Waleed Kamal",
+            "action": "Generate Report",
+            "date": "2024-12-31T21:15:45.000Z"
+        },
+
+        {
+            "id": 13,
+            "performedBy": "Nader Waleed",
+            "action": "Update Settings",
+            "date": "2024-12-31T21:00:00.000Z"
+        },
+
+        {
+            "id": 14,
+            "performedBy": "Sherif Omar",
+            "action": "View Statistics",
+            "date": "2024-12-31T20:45:30.000Z"
+        },
+
+        {
+            "id": 15,
+            "performedBy": "Osama Ahmed",
+            "action": "Create User",
+            "date": "2024-12-31T20:30:15.000Z"
+        },
+
+        {
+            "id": 16,
+            "performedBy": "Hany Magdy",
+            "action": "Delete User",
+            "date": "2024-12-31T20:15:45.000Z"
+        },
+
+        {
+            "id": 17,
+            "performedBy": "Mamdouh Raafat",
+            "action": "Update Permissions",
+            "date": "2024-12-31T20:00:00.000Z"
+        },
+
+        {
+            "id": 18,
+            "performedBy": "Adel Kamal",
+            "action": "View Logs",
+            "date": "2024-12-31T19:45:30.000Z"
+        },
+
+        {
+            "id": 19,
+            "performedBy": "Wael Samy",
+            "action": "Backup Database",
+            "date": "2024-12-31T19:30:15.000Z"
+        },
+
+        {
+            "id": 20,
+            "performedBy": "Karim Ashraf",
+            "action": "Restore Database",
+            "date": "2024-12-31T19:15:45.000Z"
+        },
+
+        {
+            "id": 21,
+            "performedBy": "Mohammed Nasr",
+            "action": "View Alerts",
+            "date": "2024-12-31T19:00:00.000Z"
+        },
+
+        {
+            "id": 22,
+            "performedBy": "Ahmed Samir",
+            "action": "Create Alert",
+            "date": "2024-12-31T18:45:30.000Z"
+        },
+
+        {
+            "id": 23,
+            "performedBy": "Yasser Magdy",
+            "action": "Update Alert",
+            "date": "2024-12-31T18:30:15.000Z"
+        },
+
+        {
+            "id": 24,
+            "performedBy": "Sherif Omar",
+            "action": "Delete Alert",
+            "date": "2024-12-31T18:15:45.000Z"
+        },
+
+        {
+            "id": 25,
+            "performedBy": "Osama Ahmed",
+            "action": "View Notifications",
+            "date": "2024-12-31T18:00:00.000Z"
+        },
+
+        {
+            "id": 26,
+            "performedBy": "Hany Magdy",
+            "action": "Clear Notifications",
+            "date": "2024-12-31T17:45:30.000Z"
+        }
+
     ]
 
 }
