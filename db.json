@@ -1467,182 +1467,286 @@
 
         {
             "id": 1,
-            "performedBy": "Omar Khaled Mohammed",
+            "performedBy": {
+                "name": "Omar Khaled Mohammed",
+                "role": "Officer",
+                "id": 1
+            },
             "action": "Login",
             "date": "2024-12-31T23:59:59.999Z"
         },
 
         {
             "id": 2,
-            "performedBy": "Ahmed Ali Hassan",
+            "performedBy": {
+                "name": "Ahmed Ali Hassan",
+                "role": "Officer",
+                "id": 2
+            },
             "action": "Logout",
             "date": "2024-12-31T23:45:30.000Z"
         },
 
         {
             "id": 3,
-            "performedBy": "Fatima Zahra Mahmoud",
+            "performedBy": {
+                "name": "Fatima Zahra Mahmoud",
+                "role": "Admin",
+                "id": 101
+            },
             "action": "Create Report",
             "date": "2024-12-31T23:30:15.000Z"
         },
 
         {
             "id": 4,
-            "performedBy": "Mohamed Hassan",
+            "performedBy": {
+                "name": "Mohamed Hassan",
+                "role": "Officer",
+                "id": 3
+            },
             "action": "Update Vehicle Data",
             "date": "2024-12-31T23:15:45.000Z"
         },
 
         {
             "id": 5,
-            "performedBy": "Karim Salah",
+            "performedBy": {
+                "name": "Karim Salah",
+                "role": "Officer",
+                "id": 7
+            },
             "action": "Delete Record",
             "date": "2024-12-31T23:00:00.000Z"
         },
 
         {
             "id": 6,
-            "performedBy": "Youssef Adel",
+            "performedBy": {
+                "name": "Youssef Adel",
+                "role": "Officer",
+                "id": 6
+            },
             "action": "View Dashboard",
             "date": "2024-12-31T22:45:30.000Z"
         },
 
         {
             "id": 7,
-            "performedBy": "Tamer Ahmed",
+            "performedBy": {
+                "name": "Tamer Ahmed",
+                "role": "Officer",
+                "id": 8
+            },
             "action": "Export Data",
             "date": "2024-12-31T22:30:15.000Z"
         },
 
         {
             "id": 8,
-            "performedBy": "Samir Hossam",
+            "performedBy": {
+                "name": "Samir Hossam",
+                "role": "Admin",
+                "id": 102
+            },
             "action": "Import Data",
             "date": "2024-12-31T22:15:45.000Z"
         },
 
         {
             "id": 9,
-            "performedBy": "Ali Farouk",
+            "performedBy": {
+                "name": "Ali Farouk",
+                "role": "Officer",
+                "id": 10
+            },
             "action": "Edit Profile",
             "date": "2024-12-31T22:00:00.000Z"
         },
 
         {
             "id": 10,
-            "performedBy": "Mostafa Ibrahim",
+            "performedBy": {
+                "name": "Mostafa Ibrahim",
+                "role": "Officer",
+                "id": 4
+            },
             "action": "Change Password",
             "date": "2024-12-31T21:45:30.000Z"
         },
 
         {
             "id": 11,
-            "performedBy": "Hassan Mahmoud",
+            "performedBy": {
+                "name": "Hassan Mahmoud",
+                "role": "Officer",
+                "id": 5
+            },
             "action": "View Reports",
             "date": "2024-12-31T21:30:15.000Z"
         },
 
         {
             "id": 12,
-            "performedBy": "Waleed Kamal",
+            "performedBy": {
+                "name": "Waleed Kamal",
+                "role": "Admin",
+                "id": 103
+            },
             "action": "Generate Report",
             "date": "2024-12-31T21:15:45.000Z"
         },
 
         {
             "id": 13,
-            "performedBy": "Nader Waleed",
+            "performedBy": {
+                "name": "Nader Waleed",
+                "role": "Admin",
+                "id": 104
+            },
             "action": "Update Settings",
             "date": "2024-12-31T21:00:00.000Z"
         },
 
         {
             "id": 14,
-            "performedBy": "Sherif Omar",
+            "performedBy": {
+                "name": "Sherif Omar",
+                "role": "Admin",
+                "id": 105
+            },
             "action": "View Statistics",
             "date": "2024-12-31T20:45:30.000Z"
         },
 
         {
             "id": 15,
-            "performedBy": "Osama Ahmed",
+            "performedBy": {
+                "name": "Osama Ahmed",
+                "role": "Admin",
+                "id": 106
+            },
             "action": "Create User",
             "date": "2024-12-31T20:30:15.000Z"
         },
 
         {
             "id": 16,
-            "performedBy": "Hany Magdy",
+            "performedBy": {
+                "name": "Hany Magdy",
+                "role": "Admin",
+                "id": 107
+            },
             "action": "Delete User",
             "date": "2024-12-31T20:15:45.000Z"
         },
 
         {
             "id": 17,
-            "performedBy": "Mamdouh Raafat",
+            "performedBy": {
+                "name": "Mamdouh Raafat",
+                "role": "Admin",
+                "id": 108
+            },
             "action": "Update Permissions",
             "date": "2024-12-31T20:00:00.000Z"
         },
 
         {
             "id": 18,
-            "performedBy": "Adel Kamal",
+            "performedBy": {
+                "name": "Adel Kamal",
+                "role": "Admin",
+                "id": 109
+            },
             "action": "View Logs",
             "date": "2024-12-31T19:45:30.000Z"
         },
 
         {
             "id": 19,
-            "performedBy": "Wael Samy",
+            "performedBy": {
+                "name": "Wael Samy",
+                "role": "Admin",
+                "id": 110
+            },
             "action": "Backup Database",
             "date": "2024-12-31T19:30:15.000Z"
         },
 
         {
             "id": 20,
-            "performedBy": "Karim Ashraf",
+            "performedBy": {
+                "name": "Karim Ashraf",
+                "role": "Admin",
+                "id": 111
+            },
             "action": "Restore Database",
             "date": "2024-12-31T19:15:45.000Z"
         },
 
         {
             "id": 21,
-            "performedBy": "Mohammed Nasr",
+            "performedBy": {
+                "name": "Mohammed Nasr",
+                "role": "Admin",
+                "id": 112
+            },
             "action": "View Alerts",
             "date": "2024-12-31T19:00:00.000Z"
         },
 
         {
             "id": 22,
-            "performedBy": "Ahmed Samir",
+            "performedBy": {
+                "name": "Ahmed Samir",
+                "role": "Admin",
+                "id": 113
+            },
             "action": "Create Alert",
             "date": "2024-12-31T18:45:30.000Z"
         },
 
         {
             "id": 23,
-            "performedBy": "Yasser Magdy",
+            "performedBy": {
+                "name": "Yasser Magdy",
+                "role": "Admin",
+                "id": 114
+            },
             "action": "Update Alert",
             "date": "2024-12-31T18:30:15.000Z"
         },
 
         {
             "id": 24,
-            "performedBy": "Sherif Omar",
+            "performedBy": {
+                "name": "Sherif Omar",
+                "role": "Admin",
+                "id": 105
+            },
             "action": "Delete Alert",
             "date": "2024-12-31T18:15:45.000Z"
         },
 
         {
             "id": 25,
-            "performedBy": "Osama Ahmed",
+            "performedBy": {
+                "name": "Osama Ahmed",
+                "role": "Admin",
+                "id": 106
+            },
             "action": "View Notifications",
             "date": "2024-12-31T18:00:00.000Z"
         },
 
         {
             "id": 26,
-            "performedBy": "Hany Magdy",
+            "performedBy": {
+                "name": "Hany Magdy",
+                "role": "Admin",
+                "id": 107
+            },
             "action": "Clear Notifications",
             "date": "2024-12-31T17:45:30.000Z"
         }
