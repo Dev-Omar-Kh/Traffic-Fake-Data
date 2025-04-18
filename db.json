@@ -155,6 +155,178 @@
 
     ],
 
+    "admins": [
+
+        {
+            "id": 1,
+            "name": "Omar Khaled Mohammed Said",
+            "username": "@omar_khaled2004",
+            "role": "Super Admin",
+            "status": "Online"
+        },
+
+        {
+            "id": 2,
+            "name": "Ahmed Mohamed Ibrahim",
+            "username": "@ahmed_ibrahim",
+            "role": "Admin",
+            "status": "Online"
+        },
+
+        {
+            "id": 3,
+            "name": "Mahmoud Ali Hassan",
+            "username": "@mahmoud_hassan",
+            "role": "Admin",
+            "status": "Offline"
+        },
+
+        {
+            "id": 4,
+            "name": "Khaled Samir Adel",
+            "username": "@khaled_samir",
+            "role": "Super Admin",
+            "status": "Online"
+        },
+
+        {
+            "id": 5,
+            "name": "Mostafa Hossam Fawzy",
+            "username": "@mostafa_fawzy",
+            "role": "Admin",
+            "status": "Offline"
+        },
+
+        {
+            "id": 6,
+            "name": "Youssef Tarek Mahmoud",
+            "username": "@youssef_tarek",
+            "role": "Admin",
+            "status": "Online"
+        },
+
+        {
+            "id": 7,
+            "name": "Mohamed Ashraf Kamal",
+            "username": "@mohamed_ashraf",
+            "role": "Super Admin",
+            "status": "Offline"
+        },
+
+        {
+            "id": 8,
+            "name": "Ibrahim Nader Waleed",
+            "username": "@ibrahim_nader",
+            "role": "Admin",
+            "status": "Online"
+        },
+
+        {
+            "id": 9,
+            "name": "Amr Hesham Tamer",
+            "username": "@amr_hesham",
+            "role": "Admin",
+            "status": "Offline"
+        },
+
+        {
+            "id": 10,
+            "name": "Hassan Magdy Sherif",
+            "username": "@hassan_magdy",
+            "role": "Super Admin",
+            "status": "Online"
+        },
+
+        {
+            "id": 11,
+            "name": "Kareem Wael Adel",
+            "username": "@kareem_wael",
+            "role": "Admin",
+            "status": "Offline"
+        },
+
+        {
+            "id": 12,
+            "name": "Tamer Osama Fady",
+            "username": "@tamer_osama",
+            "role": "Admin",
+            "status": "Online"
+        },
+
+        {
+            "id": 13,
+            "name": "Hany Mamdouh Sameh",
+            "username": "@hany_mamdouh",
+            "role": "Super Admin",
+            "status": "Offline"
+        },
+
+        {
+            "id": 14,
+            "name": "Fawzy Hossam Adel",
+            "username": "@fawzy_hossam",
+            "role": "Admin",
+            "status": "Online"
+        },
+
+        {
+            "id": 15,
+            "name": "Sameh Nabil Karim",
+            "username": "@sameh_nabil",
+            "role": "Admin",
+            "status": "Offline"
+        },
+
+        {
+            "id": 16,
+            "name": "Waleed Kamal Mahmoud",
+            "username": "@waleed_kamal",
+            "role": "Super Admin",
+            "status": "Online"
+        },
+
+        {
+            "id": 17,
+            "name": "Adel Maher Yasser",
+            "username": "@adel_maher",
+            "role": "Admin",
+            "status": "Offline"
+        },
+
+        {
+            "id": 18,
+            "name": "Hossam Tarek Fady",
+            "username": "@hossam_tarek",
+            "role": "Admin",
+            "status": "Online"
+        },
+
+        {
+            "id": 19,
+            "name": "Sherif Nader Wael",
+            "username": "@sherif_nader",
+            "role": "Super Admin",
+            "status": "Offline"
+        },
+
+        {
+            "id": 20,
+            "name": "Maher Sameh Hany",
+            "username": "@maher_sameh",
+            "role": "Admin",
+            "status": "Online"
+        },
+
+        {
+            "id": 21,
+            "name": "Nabil Adel Mahmoud",
+            "username": "@nabil_adel",
+            "role": "Super Admin",
+            "status": "Offline"
+        }
+
+    ],
+
     "vehiclesData": [
 
         {
