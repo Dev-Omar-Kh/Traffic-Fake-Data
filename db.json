@@ -2011,8 +2011,8 @@
             "id": 1,
             "name": "Chocolate Cake",
             "description": "chocolate cake is a rich and decadent dessert made with layers of moist chocolate sponge cake.",
-            "available": 10,
-            "price": 99.99,
+            "available": 12,
+            "price": 39.99,
             "image": "https://ocakes.in/storage/app/public/images/item/item-667ab251cac30.webp"
         },
 
@@ -2020,8 +2020,8 @@
             "id": 2,
             "name": "Oreo Ice Cream",
             "description": "oreo ice cream is a delicious dessert made with crushed oreo cookies and creamy vanilla ice cream.",
-            "available": 5,
-            "price": 49.99,
+            "available": 8,
+            "price": 12.49,
             "image": "https://n5d6q8j8.delivery.rocketcdn.me/wp-content/uploads/2023/05/oreo-ice-cream-scoops-spoon-glass-dish.jpg"
         }
 
