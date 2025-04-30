@@ -2003,6 +2003,28 @@
             "date": "2024-12-31T17:45:30.000Z"
         }
 
+    ],
+
+    "reduxAppData": [
+
+        {
+            "id": 1,
+            "name": "Chocolate Cake",
+            "description": "chocolate cake is a rich and decadent dessert made with layers of moist chocolate sponge cake.",
+            "available": 10,
+            "price": 99.99,
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Focakes.in%2Fproduct-details%2Fchoco-cream-cake&psig=AOvVaw0KyIzBgj4ArT6N8K64rtJK&ust=1746113041416000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC8s5KIgI0DFQAAAAAdAAAAABAE"
+        },
+
+        {
+            "id": 2,
+            "name": "Oreo Ice Cream",
+            "description": "oreo ice cream is a delicious dessert made with crushed oreo cookies and creamy vanilla ice cream.",
+            "available": 5,
+            "price": 49.99,
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fkatethebaker.com%2Foreo-ice-cream%2F&psig=AOvVaw3EkPDP5YIlvy3XzMzhtpdz&ust=1746113089908000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC-zq-IgI0DFQAAAAAdAAAAABAE"
+        }
+
     ]
 
 }
