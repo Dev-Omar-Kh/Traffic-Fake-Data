@@ -6,7 +6,7 @@ const cors = require("cors");
 app.use(cors());
 
 app.get("/", (req, res) => {
-    res.send("Portfolio API is running 🎉");
+    res.send("LPAT fake data is running 🎉");
 });
 
 app.get("/home", (req, res) => {

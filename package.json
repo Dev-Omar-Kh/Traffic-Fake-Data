@@ -1,7 +1,7 @@
 {
   "name": "lpat-fake-data",
   "version": "1.0.0",
-  "description": "Fake REST API using json-server",
+  "description": "Fake REST API using express",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
