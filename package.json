@@ -1,12 +1,16 @@
 {
-  "name": "json-server",
+  "name": "lpat-fake-data",
   "version": "1.0.0",
   "description": "Fake REST API using json-server",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "json-server": "^0.17.0"
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
   }
 }

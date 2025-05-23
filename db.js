@@ -1,4 +1,4 @@
-{
+const LPATData = {
 
     "home": {
 
@@ -2028,3 +2028,5 @@
     ]
 
 }
+
+module.exports = {LPATData};
